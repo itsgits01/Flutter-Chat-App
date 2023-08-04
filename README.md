@@ -8,6 +8,6 @@ The Flutter Chat App is a messaging application built using Flutter and Google F
 * Firestore database for storing user data and chat messages.
 * Clean and intuitive user interface.
 
-# screenshot
+# Screenshot
 ![chat app](https://github.com/itsgits01/Flutter-Chat-App/assets/111409328/c2f5f318-0a2d-47bc-97bf-aa38f44519cc)
 
