@@ -1,16 +1,13 @@
-# chat_app
+#Flutter Chat App
 
-A new Flutter project.
+The Flutter Chat App is a messaging application built using Flutter and Google Firebase. It leverages Firebase Authentication for user login and registration using email and password. The app also utilizes Cloud Firestore to store user credentials and chat messages securely.
 
-## Getting Started
+#Features
+*User registration and login using email and password.
+*Real-time chat functionality.
+*Firestore database for storing user data and chat messages.
+*Clean and intuitive user interface.
 
-This project is a starting point for a Flutter application.
+#screenshot
+![chat app](https://github.com/itsgits01/Flutter-Chat-App/assets/111409328/c2f5f318-0a2d-47bc-97bf-aa38f44519cc)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
